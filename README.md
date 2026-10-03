@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of cryental/flarum-l10n-ext-korean.** Not for installation: use [Packagist](https://packagist.org/packages/cryental/flarum-l10n-ext-korean) or the [upstream repository](https://github.com/Cryental/cryental-flarum-l10n-ext-korean).
 
-**0** versions archived · Latest: [`1.1`](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v1.1) · License: `MIT` · Flarum: `^0.1.0-beta.14`
+**5** versions archived · Latest: [`1.1`](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v1.1) · License: `MIT` · Flarum: `^0.1.0-beta.14`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-RC1` | 2020-09-14 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v0.1.0-RC1) |
+| `0.1.0-RC2` | 2020-09-15 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v0.1.0-RC2) |
+| `0.1.1-RC` | 2020-09-15 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v0.1.1-RC) |
+| `1.0` | 2020-09-15 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v1.0) |
+| `1.1` | 2020-12-06 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/cryental-flarum-l10n-ext-korean/tree/archive/v1.1) |
 
 Catalog entry: [packages/cryental-flarum-l10n-ext-korean.json](https://github.com/flarchive/archive-index/blob/main/packages/cryental-flarum-l10n-ext-korean.json)
 
